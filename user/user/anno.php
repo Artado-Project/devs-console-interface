@@ -115,6 +115,10 @@ if ($user_id) {
   font-size: 1rem;
 }
 
+.announcement-date p{
+    color: black
+}
+
 /* Mobilde Duyuru Bölümünün Boyutlarını Ayarlama */
 @media (max-width: 768px) {
   .announcement {
